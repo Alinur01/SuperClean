@@ -1,6 +1,6 @@
 # SuperClean
 
+SuperClean приложение для хаусфлиппинга
 
-
-
-![telegram-cloud-photo-size-2-5226443096189946162-y](https://user-images.githubusercontent.com/74015673/232227717-2301025d-dd8c-42eb-926f-89340a253d4c.jpg)
+<img src="vwH4zAwK_kA.jpg" width="190" height="410">
+<img src="Снимок веб-страницы_15-4-2023_193910_localhost.jpeg" width="190" height="410">
